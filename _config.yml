@@ -1,1 +1,12 @@
-theme: minima
+title: 我的博客
+email: myemail@example.com
+description: > # 这将包含换行符的字符串
+  这是我的个人博客，欢迎访问。
+baseurl: "" # 项目设置在仓库的子路径时使用
+url: "https://dijkstra123.github.io" # 你的网站URL
+
+# 构建设置
+markdown: kramdown
+theme: jekyll-theme-slate
+plugins:
+  - jekyll-remote-theme
