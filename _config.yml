@@ -1,12 +1,2 @@
-title: Yuhang Bai
-email: yuhang.bai66@gmail.com
-description: > # 这将包含换行符的字符串
-  Welcome!
-baseurl: "" # 项目设置在仓库的子路径时使用
-url: "https://Yuhang.github.io" # 你的网站URL
-
-# 构建设置
-markdown: kramdown
 theme: jekyll-theme-slate
-plugins:
-  - jekyll-remote-theme
+title: Yuhang Bai
