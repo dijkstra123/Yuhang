@@ -1,6 +1,6 @@
 # Yuhang Bai
 
-# Publications
+# Publication
 ## Preprint
 ## Journal
 ## Conference
