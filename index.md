@@ -1,6 +1,5 @@
 I'm Yuhang Bai, a PhD Candidate at NWPU with interests mainly on graph theory and theoretical computer science. 
-# Email
-yuhang.bai66@gmail.com
+Email: yuhang.bai66@gmail.com
 # List of papers
 ## Preprint
 1. Yuhang Bai, Kristóf Bérczi, Gergely Csáji, Tamás Schwarcz. Approximating maximum-size properly colored forests. arXiv preprint arXiv:2402.00834.
