@@ -1,14 +1,3 @@
----
-layout: default
-title: Yuhang Bai - Academic Homepage
-description: The personal academic homepage of Yuhang Bai, featuring publications, research, and contact information.
----
-
-<meta name="author" content="Yuhang Bai">
-<meta name="keywords" content="Yuhang Bai, Academic Homepage, Research, Publications, GitHub Pages">
-<meta name="robots" content="index, follow">
-
-
 # Welcome to My Homepage！
 
 ## About me
